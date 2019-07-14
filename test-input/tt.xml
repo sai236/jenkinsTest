@@ -4,6 +4,10 @@
     <classes>
       <class name="com.jenkins.TestNg1"/>
        <class name="com.jenkins.TestNg2"/>
+        <class name="com.jenkins.TestNg3"/>
+       <class name="com.jenkins.TestNg4"/>
+        <class name="com.jenkins.TestNg5"/>
+       <class name="com.jenkins.TestNg6"/>
     </classes>
   </test> 
 </suite> 
