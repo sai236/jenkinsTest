@@ -75,7 +75,7 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>test-input/tt.xml</suiteXmlFile>
+						<suiteXmlFile>tt.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 				<version>2.4</version>
