@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2019-07-14T12:29:03Z" finished-at="2019-07-14T12:29:03Z">
+  <suite name="Suite" duration-ms="37" started-at="2019-07-14T13:44:12Z" finished-at="2019-07-14T13:44:12Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2019-07-14T12:29:03Z" finished-at="2019-07-14T12:29:03Z">
+    <test name="Test" duration-ms="37" started-at="2019-07-14T13:44:12Z" finished-at="2019-07-14T13:44:12Z">
       <class name="com.jenkins.TestNg1">
-        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg1@5419f379]" name="t" duration-ms="9" started-at="2019-07-14T12:29:03Z" finished-at="2019-07-14T12:29:03Z">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg1@d2cc05a]" name="t" duration-ms="10" started-at="2019-07-14T13:44:12Z" finished-at="2019-07-14T13:44:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.jenkins.TestNg2">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg2@4f933fd1]" name="t" duration-ms="2" started-at="2019-07-14T13:44:12Z" finished-at="2019-07-14T13:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+      </class> <!-- com.jenkins.TestNg2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
