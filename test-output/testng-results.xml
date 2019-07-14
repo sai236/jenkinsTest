@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29" started-at="2019-07-14T09:04:21Z" finished-at="2019-07-14T09:04:21Z">
+  <suite name="Default suite" duration-ms="36" started-at="2019-07-14T09:43:40Z" finished-at="2019-07-14T09:43:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="29" started-at="2019-07-14T09:04:21Z" finished-at="2019-07-14T09:04:21Z">
+    <test name="Default test" duration-ms="36" started-at="2019-07-14T09:43:40Z" finished-at="2019-07-14T09:43:40Z">
       <class name="com.jenkins.TestNg1">
-        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg1@4cf777e8]" name="t" duration-ms="9" started-at="2019-07-14T09:04:21Z" finished-at="2019-07-14T09:04:21Z">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg1@73ad2d6]" name="t" duration-ms="9" started-at="2019-07-14T09:43:40Z" finished-at="2019-07-14T09:43:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
