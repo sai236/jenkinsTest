@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="54" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+  <suite name="Suite" duration-ms="44" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
     <groups>
     </groups>
-    <test name="tt" duration-ms="54" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+    <test name="Test" duration-ms="44" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
       <class name="com.jenkins.TestNg4">
-        <test-method status="FAIL" signature="t()[pri:0, instance:com.jenkins.TestNg4@20e2cbe0]" name="t" duration-ms="4" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+        <test-method status="FAIL" signature="t()[pri:0, instance:com.jenkins.TestNg4@731a74c]" name="t" duration-ms="1" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -52,35 +52,35 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg4 -->
       <class name="com.jenkins.TestNg5">
-        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg5@68be2bc2]" name="t" duration-ms="2" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg5@369f73a2]" name="t" duration-ms="1" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg5 -->
       <class name="com.jenkins.TestNg6">
-        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg6@28feb3fa]" name="t" duration-ms="2" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg6@1f28c152]" name="t" duration-ms="1" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg6 -->
       <class name="com.jenkins.TestNg1">
-        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg1@7c16905e]" name="t" duration-ms="10" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg1@3b0143d3]" name="t" duration-ms="10" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg1 -->
       <class name="com.jenkins.TestNg2">
-        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg2@2a2d45ba]" name="t" duration-ms="2" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg2@5a8e6209]" name="t" duration-ms="1" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg2 -->
       <class name="com.jenkins.TestNg3">
-        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg3@2a5ca609]" name="t" duration-ms="1" started-at="2019-07-14T14:28:46Z" finished-at="2019-07-14T14:28:46Z">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.jenkins.TestNg3@4b4523f8]" name="t" duration-ms="2" started-at="2019-07-14T15:01:37Z" finished-at="2019-07-14T15:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t -->
       </class> <!-- com.jenkins.TestNg3 -->
-    </test> <!-- tt -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
